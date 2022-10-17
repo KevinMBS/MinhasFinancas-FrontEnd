@@ -1,0 +1,30 @@
+nav{
+    height: 8vh;
+    background-color: var(--color-nav-background);
+    align-items: center;
+    display: flex;
+    justify-content: space-around;
+    letter-spacing: 2px;
+}
+
+.navegationLink{
+    color: var(--color-text);
+    cursor: pointer;
+    text-decoration: none;
+    transition: 0.3s;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.navegationLink:hover{
+    opacity: 0.7;
+}
+
+.navList{
+    list-style: none;
+    display: flex;
+}
+
+.navList li{
+    margin-left: 30px;
+}
