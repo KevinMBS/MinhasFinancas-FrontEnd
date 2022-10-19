@@ -1,0 +1,8 @@
+.copyrigth{
+    background-color: var(--color-first);
+    color: var(--color-text);
+    text-transform: uppercase;
+    font-size: 13px;
+    text-align: center;
+    height: 2vh;
+}

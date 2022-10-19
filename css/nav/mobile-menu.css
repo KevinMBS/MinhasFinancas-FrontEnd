@@ -20,7 +20,7 @@
       right: 0;
       width: 50vw;
       height: 92vh;
-      background: var(--color-nav-background);
+      background: var(--color-first);
       flex-direction: column;
       align-items: center;
       justify-content: space-around;
