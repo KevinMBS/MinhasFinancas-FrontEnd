@@ -1,0 +1,20 @@
+.list{
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+
+.list div{
+    border: var(--border-first);
+    border-radius: 20px;
+    min-height: 35px;
+    padding: 20px;
+    cursor: pointer;
+    text-align: center;
+    justify-content: center;
+}
+
+.list div:hover{
+    opacity: 0.5;
+}
