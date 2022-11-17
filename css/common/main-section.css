@@ -3,7 +3,7 @@
     justify-content: space-evenly;
     align-items: center;
     flex-wrap: wrap;
-    background-color: #fff;
+    background-color: var(--color-second);
     height: auto;
     width: 75vw;
     margin-left: auto;

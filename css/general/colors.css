@@ -1,4 +1,7 @@
 :root{
     --color-text: #FFFFFF;
-    --color-first: #43B73F;
+    --color-first: #3da795;
+    --color-second: #FFFFFF;
+    --color-outcome: #ff0000;
+    --color-income: #89e680;
 }
