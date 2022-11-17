@@ -1,15 +1,14 @@
 .basic-table{
     border-collapse: collapse;
-    margin: 10px 0;
     font-size: 15px;
-    width: 800px;
+    width: 75vw;
     border-radius: 35px;
 }
 
 .basic-table thead tr{
     background-color: var(--color-first);
     text-align: left;
-    color: var(--color-text);
+    color: var(--color-text-first);
     font-weight: bold;
     text-transform: uppercase;
 }
@@ -19,9 +18,6 @@
     padding: 15px;
 }
 
-.basic-table tr{
-    border: var(--border-first);
-}
 
 .basic-table tbody tr:hover{
     color: var(--color-first);

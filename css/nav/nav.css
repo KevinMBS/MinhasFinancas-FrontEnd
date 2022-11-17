@@ -8,7 +8,7 @@ nav{
 }
 
 .navegationLink{
-    color: var(--color-text);
+    color: var(--color-text-first);
     cursor: pointer;
     text-decoration: none;
     transition: 0.3s;
